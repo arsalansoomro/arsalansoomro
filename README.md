@@ -1,5 +1,3 @@
-Bilkul! 👍 Main aapke liye **professional GitHub profile README.md** bana deta hoon. Aap web developer hain, isliye ismein skills, projects, GitHub stats aur contact section rakh sakte hain.
-
 # 👋 Hi, I'm Arsalan Soomro
 
 ### 💻 Web Developer | Software Developer | Tech Enthusiast
