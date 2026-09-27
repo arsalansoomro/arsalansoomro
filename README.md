@@ -1,4 +1,4 @@
- 👋 Hi, I'm Arsalan Soomro
+# 👋 Hi, I'm Arsalan Soomro
 
 ### 💻 Full-Stack Web Developer | Modern Web Applications | UI/UX
 
@@ -107,17 +107,8 @@ More innovative projects are currently being planned and developed.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="Arsalan's GitHub Stats"
-  />
-
-  <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=arsalansoomro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalansoomro&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
@@ -141,16 +132,16 @@ More innovative projects are currently being planned and developed.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/arsalansoomro" target="_blank">
+  <a href="https://github.com/arsalansoomro">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="/www.linkedin.com/in/arsalan-soomro/" target="_blank">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:arsalansoomro193@gmail.com" target="_blank">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
