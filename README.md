@@ -107,9 +107,17 @@ More innovative projects are currently being planned and developed.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arsalansoomro&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="Arsalan's GitHub Stats"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalansoomro&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
