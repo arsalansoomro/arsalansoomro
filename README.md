@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arsalan Soomro
+x# 👋 Hi, I'm Arsalan Soomro
 
 ### 💻 Full-Stack Web Developer | Modern Web Applications | UI/UX
 
@@ -141,16 +141,16 @@ More innovative projects are currently being planned and developed.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/arsalansoomro">
+  <a href="https://github.com/arsalansoomro" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="/www.linkedin.com/in/arsalan-soomro">
+  <a href="/www.linkedin.com/in/arsalan-soomro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:arsalansoomro193@gmail.com">
+  <a href="mailto:arsalansoomro193@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
