@@ -1,4 +1,4 @@
-![Urwah Wajid Banner](./banner.png)
+![arsalansoomro Banner](./banner.png)
 
 <h1 align="center">Hi 👋, I'm ArsalanSoomro</h1>
 
