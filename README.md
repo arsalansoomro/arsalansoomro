@@ -135,7 +135,7 @@ More innovative projects are currently being planned and developed.
   <a href="https://github.com/arsalansoomro">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="arsalan-soomro-56b25641b">
+  <a href="/www.linkedin.com/in/arsalan-soomro">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="YOUR_PORTFOLIO_URL">
