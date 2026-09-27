@@ -75,7 +75,7 @@ Creating professional websites that work smoothly across desktop, tablet, and mo
 * 💼 GitHub: [@YOUR_USERNAME](https://github.com/arsalansoomro)
 * 📧 Email: YOUR_EMAIL
 * 🌐 Portfolio: YOUR_PORTFOLIO_URL
-* 💼 LinkedIn: YOUR_LINKEDIN_URL
+* 💼 LinkedIn: www.linkedin.com/in/arsalan-soomro-56b25641b
 
 ---
 
