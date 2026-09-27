@@ -107,8 +107,17 @@ More innovative projects are currently being planned and developed.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arsalansoomro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalansoomro&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=arsalansoomro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    height="180"
+    alt="Arsalan's GitHub Stats"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalansoomro&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -124,7 +133,10 @@ More innovative projects are currently being planned and developed.
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arsalansoomro/arsalansoomro/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img 
+    src="https://raw.githubusercontent.com/arsalansoomro/arsalansoomro/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
