@@ -58,21 +58,21 @@ Creating professional websites that work smoothly across desktop, tablet, and mo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsalansoomro\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsalansoomro\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=arsalansoomro\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* 💼 GitHub: [@YOUR_USERNAME](https://github.com/arsalansoomro)
 * 📧 Email: YOUR_EMAIL
 * 🌐 Portfolio: YOUR_PORTFOLIO_URL
 * 💼 LinkedIn: YOUR_LINKEDIN_URL
