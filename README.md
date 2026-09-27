@@ -1,4 +1,4 @@
-x# 👋 Hi, I'm Arsalan Soomro
+ 👋 Hi, I'm Arsalan Soomro
 
 ### 💻 Full-Stack Web Developer | Modern Web Applications | UI/UX
 
